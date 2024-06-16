@@ -159,6 +159,8 @@ p {
   height: 40px;
   border-radius: 5px;
 }
+.icon:hover {background-color: #161F52 ;}
+.icon:focus {background-color: #102a0b;}
 
 @media (max-width: 754px) {
   body {
